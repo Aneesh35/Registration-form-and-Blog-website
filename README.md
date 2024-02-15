@@ -32,7 +32,7 @@ Ensure you have the following software installed on your system:
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+1. Clone the repository: git clone https://github.com/Aneesh35/Registration-form-and-Blog-website
 2. Navigate to the project folder: cd your-repo
 3. Install dependencies: npm install
 
